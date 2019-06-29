@@ -9,6 +9,7 @@
 
 > The data consists attributes of 113937 past loan listings . The attributes included details such as the loan amount, the loan status, the loan rating, the estimated yield, the borrower rating, the borrower income, the borrower's historical performance, percentage of the listing funded, and the number of investors invested.
 >> Loan Data from Prosper https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554486256021000
+
 >> Prosper Data Dictionary https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554486256024000
 
 > Preliminary Data WranlingL
