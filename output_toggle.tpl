@@ -2,6 +2,7 @@
    from http://www.damian.oquanta.info/posts/hide-the-input-cells-from-your-ipython-slides.html
 #}
 
+
 {%- extends 'slides_reveal.tpl' -%}
 
 {% block input_group -%}
