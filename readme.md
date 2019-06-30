@@ -19,6 +19,12 @@
 >- Subset the Data: a new dataframe subset_loan_df which includes only these 3 Loan Status to avoid the noise that may created by other Loan Status. These loans will be called as concluded Loans.
 >- Created a new variable "is_badloan" to identify the status of the loan, with 0 refers to completed loan and 1 refers to bad loan.
 
+## Files in this repository:
+1. exploration_ProsperLoan.ipynb: the detailed EDA work of Prosper Data in ipynd format
+2. exploration_ProsperLoan.html: the detailed EDA work of Prosper Data in HTML
+3. slide_deck_ProsperLoan.ipynb: the ipynb file to produce the slides output_toggle.tpl
+4. output_toggle.tpl: the slides for presentation of the main findings of this EDA
+
 ## Summary of Findings
 
 > Loans on Prosper.com are more of the consumer market with low Loan Amounts, ranging from \\1K$ to \\$25K. Most of the loans having the amount lower than \\$10K.  
